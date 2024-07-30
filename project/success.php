@@ -62,7 +62,7 @@ $value = $_SESSION['value'];
 					
 					<div class="row fullscreen d-flex align-items-center justify-content-start">
 						<h3 style="color: white; text-shadow: 1px 1px 2px black, 0 0 45px green, 0 0 45px darkgreen;font-family: Comic Sans MS; font-style:italic; font-size:100px;" class="text-white">
-				<?php echo "WELCOME "; echo $_SESSION['name']; ?> </h3>
+				<?php echo "Welcome "; echo $_SESSION['name']; ?> </h3>
 						<div class="banner-content col-lg-10 text-center">
 
 								<br/>
