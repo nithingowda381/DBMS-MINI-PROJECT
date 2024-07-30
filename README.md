@@ -1,5 +1,6 @@
-#Forensic Case Management System
-#Overview
+Forensic Case Management System
+
+Overview
 The Forensic Case Management System is a web-based application designed to streamline the process of managing forensic cases, logs, and evidence. It provides a secure and user-friendly interface for administrators, forensic lab technicians, and officers to efficiently handle forensic investigations.
 
 #Features
@@ -84,7 +85,9 @@ Contact
 For any inquiries or issues, please contact:
 
 Project Maintainer: [NITHIN GOWDA M S]
+
 Email: [nithingowda381@gmail.com]
+
 Acknowledgements: 
 Online Resources: Various tutorials and documentation that provided valuable insights and assistance.
 Libraries and Frameworks: Bootstrap, PHPMailer, and other open-source libraries that made development easier.
